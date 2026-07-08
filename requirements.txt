@@ -1,12 +1,2 @@
 python-telegram-bot==20.7
-ccxt==4.1.83
-yfinance==0.2.33
-mplfinance==0.12.10b0
-matplotlib==3.8.2
-numpy==1.26.3
-pandas==2.1.4
-ta==0.10.2
-requests==2.31.0
 python-dotenv==1.0.0
-apscheduler==3.10.4
-Pillow==10.1.0
