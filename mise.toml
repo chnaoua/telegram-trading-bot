@@ -1,0 +1,9 @@
+# إضافة ملف mise.toml
+echo '[settings]
+python.github_attestations = false
+
+[tools]
+python = "3.11.4"' > mise.toml
+
+# تعديل runtime.txt
+echo 'python-3.11.4' > runtime.txt
